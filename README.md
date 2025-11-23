@@ -19,4 +19,5 @@ This project uses CNN, VGG16, and MobileNetV2 models to classify dermoscopic ima
 - CNN: **84% accuracy**
 - MobileNetV2: **82% accuracy**
 
-
+## Report
+See full report here: [Project_Report.pdf](Project_Report.pdf)
