@@ -21,3 +21,6 @@ This project uses CNN, VGG16, and MobileNetV2 models to classify dermoscopic ima
 
 ## Report
 See full report here: [Project_Report.pdf](Project_Report.pdf)
+
+##Code Resources
+1. https://www.kaggle.com/code/kratikmudgal/skin-cancer-classification
