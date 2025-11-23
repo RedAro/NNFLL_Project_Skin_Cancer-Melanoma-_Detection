@@ -1,0 +1,33 @@
+SUBMISSION_CHECKLIST.txt
+
+1. Final Report (PDF)
+   - File name format: <memberID1>_<memberID2>_<memberID3>.pdf
+   - Includes: Title page, Abstract, Introduction, Related Work, Dataset, Methodology,
+     Training Procedure, Results, Discussion, Conclusion, References.
+
+2. Code and Artifacts (GitHub Repository)
+   - All source code (training, evaluation, inference)
+   - requirements.txt
+   - Saved model weights (best checkpoint)
+   - Sample input & output for verification
+   - Supplementary files (tokenizers, label mappings)
+   - README file
+
+3. Video Presentation (YouTube)
+   - 3-minute presentation uploaded
+   - Covers: Problem, Dataset, Model, Key Results, Conclusion
+
+4. Data Preprocessing & EDA Materials
+   - Scripts for cleaning, preprocessing, and augmentation
+   - EDA graphs and summaries
+   - Preprocessed data samples (if required)
+
+5. Proposal & Team Registration
+   - Google Form submitted
+
+6. Final Submission Uploads
+   - PDF report (Google Classroom + offline)
+   - GitHub repository link
+   - YouTube presentation 
+   - This SUBMISSION_CHECKLIST.txt
+
