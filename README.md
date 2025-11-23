@@ -24,3 +24,4 @@ See full report here: [Project_Report.pdf](Project_Report.pdf)
 
 ##Code Resources
 1. https://www.kaggle.com/code/kratikmudgal/skin-cancer-classification
+2. https://www.kaggle.com/code/musharofamusa/melanoma-classifier-deeplearning-models
